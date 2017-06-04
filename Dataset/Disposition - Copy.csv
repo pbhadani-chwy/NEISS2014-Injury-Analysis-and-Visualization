@@ -1,0 +1,9 @@
+Disposition,Code
+"Treated and released, or examined and released
+ without treatment",1
+Treated and transferred to another hospital,2
+Treated and admitted for hospitalization (within same facility),4
+Held for observation (includes admitted for observation),5
+Left without being seen/Left against medical advice,6
+"Fatality, including DOA, died in the ED",8
+Not Recorded,9

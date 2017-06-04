@@ -1,0 +1,27 @@
+BodyPart,Code
+"Arm, lower",33
+"Arm, upper",80
+Ankle,37
+Ear,94
+Elbow,32
+Eyeball,77
+Face,76
+Finger,92
+Foot,83
+Hand,82
+Head,75
+Internal,0
+Knee,35
+"Leg, lower",36
+"Leg, upper",81
+Mouth,88
+Neck,89
+Pubic region,38
+Shoulder,30
+Toe,93
+"Trunk, lower",79
+"Trunk, upper",31
+Wrist,34
+25-50% of body,84
+>50% of body,85
+Not Recorded,87

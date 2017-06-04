@@ -1,0 +1,31 @@
+Diagnosis,Code
+Amputation,50
+Anoxia,65
+Aspirated foreign object,42
+Avulsion,72
+"Burns, scald (from hot liquids or steam)",48
+"Burns, thermal (from flames or hot surface)",51
+"Burns, chemical (caustics, etc.)",49
+"Burns, radiation (includes all cell damage by ultraviolet, x- rays, microwaves, laser beam, radioactive materials, etc.)",73
+"Burns, electrical",46
+"Burns, not specified",47
+Concussions,52
+"Contusions, Abrasions",53
+Crushing,54
+Dental injury,60
+"Dermatitis, Conjunctivitis",74
+Dislocation,55
+Electric shock,67
+Foreign body,56
+Fracture,57
+Hematoma,58
+Hemorrhage,66
+Ingested foreign object,41
+Internal organ injury,62
+Laceration,59
+Nerve damage,61
+Poisoning,68
+Puncture,63
+Strain or Sprain,64
+Submersion (including Drowning),69
+Other/Not Stated,71
